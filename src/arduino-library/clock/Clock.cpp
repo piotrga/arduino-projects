@@ -1,4 +1,4 @@
-#include "WProgram.h"
+#include <Arduino.h>
 #include "Clock.h"
 
 Clock::Clock(long startTime){
